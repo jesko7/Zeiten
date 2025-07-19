@@ -1,0 +1,185 @@
+[
+  {
+    "name": "jesko",
+    "geburtsjahr": 2010,
+    "zeiten": [
+      {
+        "disziplin": "50m Retten",
+        "datum": "2025-07-19",
+        "zeit": {
+          "25m Freistil": {
+            "minuten": 0,
+            "sekunden": 12,
+            "millis": 560
+          },
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 23,
+            "millis": 670
+          },
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 230
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
+      },
+      {
+        "disziplin": "200m Hindernis-schwimmen",
+        "datum": "2025-07-19",
+        "zeit": {
+          "Gesamt": {
+            "minuten": 2,
+            "sekunden": 19,
+            "millis": 430
+          },
+          "100m Hindernis": {
+            "minuten": 0,
+            "sekunden": 33,
+            "millis": 230
+          },
+          "150m Hindernis": {
+            "minuten": 0,
+            "sekunden": 34,
+            "millis": 630
+          },
+          "50m Hindernis": {
+            "minuten": 0,
+            "sekunden": 35,
+            "millis": 230
+          },
+          "200m Hindernis": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 340
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
+      }
+    ],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": [
+      "100m Retten mit Flossen",
+      "100m Retten m. Fl. u. GR. (Lifesaver)",
+      "200m Hindernis-schwimmen",
+      "50m Retten"
+    ]
+  },
+  {
+    "name": "malte",
+    "geburtsjahr": 2011,
+    "zeiten": [],
+    "hochgezogen": true,
+    "geschlecht": true,
+    "einzel_disziplinen": [
+      "50m Retten",
+      "100m Hindernis-schwimmen",
+      "50m Retten mit Flossen",
+      ""
+    ]
+  },
+  {
+    "name": "elias",
+    "geburtsjahr": 2010,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
+  },
+  {
+    "name": "linus",
+    "geburtsjahr": 2009,
+    "zeiten": [
+      {
+        "disziplin": "200m Super-Lifesaver",
+        "datum": "2025-07-19",
+        "zeit": {
+          "50m Freistil": {
+            "minuten": 0,
+            "sekunden": 23,
+            "millis": 560
+          },
+          "50 Gurt mit Puppe und Flossen": {
+            "minuten": 0,
+            "sekunden": 46,
+            "millis": 730
+          },
+          "Gesamt": {
+            "minuten": 4,
+            "sekunden": 44,
+            "millis": 740
+          },
+          "Flossen an": {
+            "minuten": 0,
+            "sekunden": 12,
+            "millis": 350
+          },
+          "75m Freistil": {
+            "minuten": 1,
+            "sekunden": 23,
+            "millis": 770
+          },
+          "50m Gurt Flossen": {
+            "minuten": 1,
+            "sekunden": 23,
+            "millis": 560
+          },
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 32,
+            "millis": 560
+          },
+          "klinken": {
+            "minuten": 0,
+            "sekunden": 2,
+            "millis": 210
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": "gucken"
+      },
+      {
+        "disziplin": "50m Retten",
+        "datum": "2025-07-19",
+        "zeit": {
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 48,
+            "millis": 860
+          },
+          "25m Freistil": {
+            "minuten": 0,
+            "sekunden": 12,
+            "millis": 540
+          },
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 320
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": "2"
+      }
+    ],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
+  },
+  {
+    "name": "lynn",
+    "geburtsjahr": 2009,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": false,
+    "einzel_disziplinen": []
+  }
+]
