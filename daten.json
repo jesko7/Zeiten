@@ -7,11 +7,6 @@
         "disziplin": "50m Retten",
         "datum": "2025-07-19",
         "zeit": {
-          "25m Freistil": {
-            "minuten": 0,
-            "sekunden": 12,
-            "millis": 560
-          },
           "25m Puppe": {
             "minuten": 0,
             "sekunden": 23,
@@ -21,6 +16,11 @@
             "minuten": 0,
             "sekunden": 36,
             "millis": 230
+          },
+          "25m Freistil": {
+            "minuten": 0,
+            "sekunden": 12,
+            "millis": 560
           }
         },
         "wettkampf": "Training",
@@ -31,16 +31,6 @@
         "disziplin": "200m Hindernis-schwimmen",
         "datum": "2025-07-19",
         "zeit": {
-          "100m Hindernis": {
-            "minuten": 0,
-            "sekunden": 33,
-            "millis": 230
-          },
-          "Gesamt": {
-            "minuten": 2,
-            "sekunden": 19,
-            "millis": 430
-          },
           "150m Hindernis": {
             "minuten": 0,
             "sekunden": 34,
@@ -50,6 +40,16 @@
             "minuten": 0,
             "sekunden": 36,
             "millis": 340
+          },
+          "100m Hindernis": {
+            "minuten": 0,
+            "sekunden": 33,
+            "millis": 230
+          },
+          "Gesamt": {
+            "minuten": 2,
+            "sekunden": 19,
+            "millis": 430
           },
           "50m Hindernis": {
             "minuten": 0,
@@ -100,45 +100,45 @@
         "disziplin": "200m Super-Lifesaver",
         "datum": "2025-07-19",
         "zeit": {
-          "50 Gurt mit Puppe und Flossen": {
+          "50m Freistil": {
             "minuten": 0,
-            "sekunden": 46,
-            "millis": 730
-          },
-          "75m Freistil": {
-            "minuten": 1,
             "sekunden": 23,
-            "millis": 770
+            "millis": 560
           },
           "Flossen an": {
             "minuten": 0,
             "sekunden": 12,
             "millis": 350
           },
-          "Gesamt": {
-            "minuten": 4,
-            "sekunden": 44,
-            "millis": 740
+          "50m Gurt Flossen": {
+            "minuten": 1,
+            "sekunden": 23,
+            "millis": 560
           },
           "25m Puppe": {
             "minuten": 0,
             "sekunden": 32,
             "millis": 560
           },
+          "Gesamt": {
+            "minuten": 4,
+            "sekunden": 44,
+            "millis": 740
+          },
+          "75m Freistil": {
+            "minuten": 1,
+            "sekunden": 23,
+            "millis": 770
+          },
           "klinken": {
             "minuten": 0,
             "sekunden": 2,
             "millis": 210
           },
-          "50m Gurt Flossen": {
-            "minuten": 1,
-            "sekunden": 23,
-            "millis": 560
-          },
-          "50m Freistil": {
+          "50 Gurt mit Puppe und Flossen": {
             "minuten": 0,
-            "sekunden": 23,
-            "millis": 560
+            "sekunden": 46,
+            "millis": 730
           }
         },
         "wettkampf": "Training",
