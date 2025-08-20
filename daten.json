@@ -7,20 +7,20 @@
         "disziplin": "50m komb. Schwimmen",
         "datum": "2025-08-20",
         "zeit": {
-          "25m RBL": {
+          "25m Freistil": {
             "minuten": 0,
-            "sekunden": 23,
-            "millis": 540
+            "sekunden": 3,
+            "millis": 460
           },
           "Gesamt": {
             "minuten": 0,
             "sekunden": 27,
             "millis": 0
           },
-          "25m Freistil": {
+          "25m RBL": {
             "minuten": 0,
-            "sekunden": 3,
-            "millis": 460
+            "sekunden": 23,
+            "millis": 540
           }
         },
         "wettkampf": "Training",
@@ -36,15 +36,15 @@
             "sekunden": 26,
             "millis": 760
           },
-          "25m Freistil": {
-            "minuten": 0,
-            "sekunden": 3,
-            "millis": 240
-          },
           "25m RBL": {
             "minuten": 0,
             "sekunden": 23,
             "millis": 520
+          },
+          "25m Freistil": {
+            "minuten": 0,
+            "sekunden": 3,
+            "millis": 240
           }
         },
         "wettkampf": "Training",
@@ -55,20 +55,20 @@
         "disziplin": "50m Retten",
         "datum": "2025-07-19",
         "zeit": {
-          "25m Freistil": {
+          "25m Puppe": {
             "minuten": 0,
-            "sekunden": 12,
-            "millis": 560
+            "sekunden": 23,
+            "millis": 670
           },
           "Gesamt": {
             "minuten": 0,
             "sekunden": 36,
             "millis": 230
           },
-          "25m Puppe": {
+          "25m Freistil": {
             "minuten": 0,
-            "sekunden": 23,
-            "millis": 670
+            "sekunden": 12,
+            "millis": 560
           }
         },
         "wettkampf": "Training",
@@ -84,14 +84,14 @@
             "sekunden": 34,
             "millis": 630
           },
-          "Gesamt": {
-            "minuten": 2,
-            "sekunden": 19,
-            "millis": 430
-          },
           "50m Hindernis": {
             "minuten": 0,
             "sekunden": 35,
+            "millis": 230
+          },
+          "100m Hindernis": {
+            "minuten": 0,
+            "sekunden": 33,
             "millis": 230
           },
           "200m Hindernis": {
@@ -99,10 +99,10 @@
             "sekunden": 36,
             "millis": 340
           },
-          "100m Hindernis": {
-            "minuten": 0,
-            "sekunden": 33,
-            "millis": 230
+          "Gesamt": {
+            "minuten": 2,
+            "sekunden": 19,
+            "millis": 430
           }
         },
         "wettkampf": "Training",
@@ -122,7 +122,32 @@
   {
     "name": "malte",
     "geburtsjahr": 2011,
-    "zeiten": [],
+    "zeiten": [
+      {
+        "disziplin": "50m Retten",
+        "datum": "2025-08-21",
+        "zeit": {
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 38,
+            "millis": 970
+          },
+          "25m Freistil": {
+            "minuten": 0,
+            "sekunden": 19,
+            "millis": 350
+          },
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 19,
+            "millis": 620
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
+      }
+    ],
     "hochgezogen": true,
     "geschlecht": true,
     "einzel_disziplinen": [
@@ -138,7 +163,12 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "linus",
@@ -148,9 +178,9 @@
         "disziplin": "200m Super-Lifesaver",
         "datum": "2025-07-19",
         "zeit": {
-          "50m Gurt Flossen": {
-            "minuten": 1,
-            "sekunden": 23,
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 32,
             "millis": 560
           },
           "75m Freistil": {
@@ -158,35 +188,35 @@
             "sekunden": 23,
             "millis": 770
           },
-          "25m Puppe": {
-            "minuten": 0,
-            "sekunden": 32,
+          "50m Gurt Flossen": {
+            "minuten": 1,
+            "sekunden": 23,
             "millis": 560
-          },
-          "50 Gurt mit Puppe und Flossen": {
-            "minuten": 0,
-            "sekunden": 46,
-            "millis": 730
           },
           "50m Freistil": {
             "minuten": 0,
             "sekunden": 23,
             "millis": 560
           },
-          "Gesamt": {
-            "minuten": 4,
-            "sekunden": 44,
-            "millis": 740
+          "klinken": {
+            "minuten": 0,
+            "sekunden": 2,
+            "millis": 210
+          },
+          "50 Gurt mit Puppe und Flossen": {
+            "minuten": 0,
+            "sekunden": 46,
+            "millis": 730
           },
           "Flossen an": {
             "minuten": 0,
             "sekunden": 12,
             "millis": 350
           },
-          "klinken": {
-            "minuten": 0,
-            "sekunden": 2,
-            "millis": 210
+          "Gesamt": {
+            "minuten": 4,
+            "sekunden": 44,
+            "millis": 740
           }
         },
         "wettkampf": "Training",
@@ -197,6 +227,11 @@
         "disziplin": "50m Retten",
         "datum": "2025-07-19",
         "zeit": {
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 320
+          },
           "Gesamt": {
             "minuten": 0,
             "sekunden": 48,
@@ -206,11 +241,6 @@
             "minuten": 0,
             "sekunden": 12,
             "millis": 540
-          },
-          "25m Puppe": {
-            "minuten": 0,
-            "sekunden": 36,
-            "millis": 320
           }
         },
         "wettkampf": "Training",
@@ -220,7 +250,12 @@
     ],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "lynn",
@@ -228,6 +263,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      "",
+      ""
+    ]
   }
 ]
