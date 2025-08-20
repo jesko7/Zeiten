@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "Test",
+    "schwimmer": [
+      "Jesko",
+      "malte",
+      "elias",
+      "linus",
+      "schom"
+    ],
+    "diszizplin_permutation": {}
+  }
+]
