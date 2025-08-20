@@ -1,42 +1,10 @@
 [
   {
-    "name": "jesko",
+    "name": "Jesko",
     "geburtsjahr": 2010,
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
-  },
-  {
-    "name": "malte",
-    "geburtsjahr": 2011,
-    "zeiten": [],
-    "hochgezogen": true,
-    "geschlecht": true,
-    "einzel_disziplinen": []
-  },
-  {
-    "name": "linus",
-    "geburtsjahr": 2009,
-    "zeiten": [],
-    "hochgezogen": false,
-    "geschlecht": true,
-    "einzel_disziplinen": []
-  },
-  {
-    "name": "elias",
-    "geburtsjahr": 2010,
-    "zeiten": [],
-    "hochgezogen": false,
-    "geschlecht": true,
-    "einzel_disziplinen": []
-  },
-  {
-    "name": "lynn",
-    "geburtsjahr": 2009,
-    "zeiten": [],
-    "hochgezogen": false,
-    "geschlecht": false,
     "einzel_disziplinen": []
   }
 ]
