@@ -30,5 +30,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "lynn",
+    "geburtsjahr": 2009,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": false,
+    "einzel_disziplinen": []
   }
 ]
