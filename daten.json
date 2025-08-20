@@ -1,3 +1,10 @@
 [
-  
+  {
+    "name": "jesko",
+    "geburtsjahr": 2010,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
+  }
 ]
