@@ -3,11 +3,16 @@
     "name": "coolem",
     "schwimmer": [
       "jesko",
-      "malte",
       "elias",
       "linus"
     ],
     "diszizplin_permutation": {
+      "4x50m Hindernis": [
+        9,
+        9,
+        9,
+        9
+      ],
       "4x50m Gurtretter": [
         9,
         9,
@@ -21,12 +26,6 @@
         9
       ],
       "4x50m Rettungs-Staffel": [
-        9,
-        9,
-        9,
-        9
-      ],
-      "4x50m Hindernis": [
         9,
         9,
         9,
