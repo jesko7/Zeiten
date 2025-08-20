@@ -6,5 +6,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "malte",
+    "geburtsjahr": 2011,
+    "zeiten": [],
+    "hochgezogen": true,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
