@@ -38,5 +38,13 @@
     "hochgezogen": false,
     "geschlecht": false,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "schom",
+    "geburtsjahr": 2011,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
