@@ -22,5 +22,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "linus",
+    "geburtsjahr": 2009,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
