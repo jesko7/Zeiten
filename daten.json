@@ -23,6 +23,27 @@
         },
         "bahnlaenge": "25m",
         "anmerkung": null
+      },
+      {
+        "disziplin": "4x25m Puppen - 2. 25m Puppe",
+        "datum": "2025-08-25",
+        "zeit": {
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 780
+          },
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 36,
+            "millis": 780
+          }
+        },
+        "wettkampf": {
+          "Wettkampf": "BezirksMeisterSchaften"
+        },
+        "bahnlaenge": "25m",
+        "anmerkung": null
       }
     ],
     "hochgezogen": false,
