@@ -2,7 +2,29 @@
   {
     "name": "Jesko",
     "geburtsjahr": 2010,
-    "zeiten": [],
+    "zeiten": [
+      {
+        "disziplin": "4x25m Puppen - 1. 25m Puppe",
+        "datum": "2025-08-25",
+        "zeit": {
+          "25m Puppe": {
+            "minuten": 0,
+            "sekunden": 35,
+            "millis": 670
+          },
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 35,
+            "millis": 670
+          }
+        },
+        "wettkampf": {
+          "Wettkampf": "BezirksMeisterSchaften"
+        },
+        "bahnlaenge": "25m",
+        "anmerkung": null
+      }
+    ],
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
