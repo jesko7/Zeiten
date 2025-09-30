@@ -54,5 +54,13 @@
     "hochgezogen": false,
     "geschlecht": false,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "Anton Sander",
+    "geburtsjahr": 2013,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": false,
+    "einzel_disziplinen": []
   }
 ]
