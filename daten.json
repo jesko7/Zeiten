@@ -1,3 +1,10 @@
 [
-  
+  {
+    "name": "Lina Kannen",
+    "geburtsjahr": 2014,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": false,
+    "einzel_disziplinen": []
+  }
 ]
