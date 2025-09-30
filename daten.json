@@ -86,5 +86,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "Karim",
+    "geburtsjahr": 2013,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
