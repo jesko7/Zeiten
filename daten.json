@@ -62,5 +62,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "Aron Porr",
+    "geburtsjahr": 2013,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
