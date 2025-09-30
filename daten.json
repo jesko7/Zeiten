@@ -5,7 +5,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Carolin Mumme",
@@ -13,7 +17,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Charlotte Terhyden",
@@ -21,7 +29,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Lea Becirovic",
@@ -29,7 +41,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Lina Kannen",
@@ -37,7 +53,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Maira Richter",
@@ -45,7 +65,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Mara Anisimov",
@@ -53,7 +77,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": false,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Anton Sander",
@@ -61,7 +89,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Aron Porr",
@@ -69,7 +101,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Benjamin Schiller",
@@ -77,7 +113,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Diego Nousch",
@@ -85,7 +125,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Karim",
@@ -93,7 +137,11 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   },
   {
     "name": "Miguel Keusen",
@@ -101,6 +149,10 @@
     "zeiten": [],
     "hochgezogen": false,
     "geschlecht": true,
-    "einzel_disziplinen": []
+    "einzel_disziplinen": [
+      "",
+      "",
+      ""
+    ]
   }
 ]
