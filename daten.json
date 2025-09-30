@@ -60,7 +60,7 @@
     "geburtsjahr": 2013,
     "zeiten": [],
     "hochgezogen": false,
-    "geschlecht": false,
+    "geschlecht": true,
     "einzel_disziplinen": []
   }
 ]
