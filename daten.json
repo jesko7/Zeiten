@@ -78,5 +78,13 @@
     "hochgezogen": false,
     "geschlecht": true,
     "einzel_disziplinen": []
+  },
+  {
+    "name": "Diego Nousch",
+    "geburtsjahr": 2013,
+    "zeiten": [],
+    "hochgezogen": false,
+    "geschlecht": true,
+    "einzel_disziplinen": []
   }
 ]
