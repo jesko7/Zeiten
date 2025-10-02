@@ -50,7 +50,27 @@
   {
     "name": "Lina Kannen",
     "geburtsjahr": 2013,
-    "zeiten": [],
+    "zeiten": [
+      {
+        "disziplin": "4x25m Rettungs-Staffel - 1. 25m Flossen",
+        "datum": "2025-10-01",
+        "zeit": {
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 16,
+            "millis": 30
+          },
+          "25m Flossen": {
+            "minuten": 0,
+            "sekunden": 16,
+            "millis": 30
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
+      }
+    ],
     "hochgezogen": false,
     "geschlecht": false,
     "einzel_disziplinen": [
