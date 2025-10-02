@@ -107,6 +107,30 @@
         "wettkampf": "Training",
         "bahnlaenge": "25m",
         "anmerkung": null
+      },
+      {
+        "disziplin": "50m Hindernis-schwimmen",
+        "datum": "2025-10-01",
+        "zeit": {
+          "25m Hindernis": {
+            "minuten": 0,
+            "sekunden": 21,
+            "millis": 380
+          },
+          "50m Hindernis": {
+            "minuten": 0,
+            "sekunden": 24,
+            "millis": 810
+          },
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 46,
+            "millis": 190
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
       }
     ],
     "hochgezogen": false,
