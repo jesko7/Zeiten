@@ -88,6 +88,25 @@
         "wettkampf": "Training",
         "bahnlaenge": "25m",
         "anmerkung": null
+      },
+      {
+        "disziplin": "4x25m Rettungs-Staffel - 1. 25m Flossen",
+        "datum": "2025-10-01",
+        "zeit": {
+          "25m Flossen": {
+            "minuten": 0,
+            "sekunden": 16,
+            "millis": 120
+          },
+          "Gesamt": {
+            "minuten": 0,
+            "sekunden": 16,
+            "millis": 120
+          }
+        },
+        "wettkampf": "Training",
+        "bahnlaenge": "25m",
+        "anmerkung": null
       }
     ],
     "hochgezogen": false,
